@@ -6,7 +6,7 @@
 :school: BS in communication from East Carolina University and recent graduate of the Tech Academy's Front End Web Development Bootcamp</br>
 :fountain_pen: I have a passion for creative writing</br>
 :video_game: I'm an avid gamer</br>
-🏀: Fun fact: I love to play basketball</br>
+🏀 Fun fact: I love to play basketball</br>
 :mailbox: How to reach me: <a href="mailto:owenbond23@gmail.com">Owenbond23@gmail.com</a>
 
  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Owenb23&theme=github_dark&layout=compact&hide_border=true" /></a> 
