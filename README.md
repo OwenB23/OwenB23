@@ -1,4 +1,4 @@
-# Welcome to my personal Github! My name is Owen Bond.
+#  My name is Owen Bond. Welcome to my personal Github!
 
 ### Feel free to explore any of the public repositories that hold projects i have built!
 
