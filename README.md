@@ -9,7 +9,7 @@
 🏀: Fun fact: I love to play basketball</br>
 :mailbox: How to reach me: <a href="mailto:owenbond23@gmail.com">Owenbond23@gmail.com</a>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Owenb23&theme=github_dark&layout=compact&hide_border=true" /></a> |
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Owenb23&theme=github_dark&layout=compact&hide_border=true" /></a> 
 
 ### Feel free to explore any of the public repositories that hold projects i have built! 📈
 
