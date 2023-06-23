@@ -1,4 +1,3 @@
-Currently I am looking for an oppertuntity as a front end web developer. Please email me at Owenbond23@gmail.com for any information or questions you might have for me.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Owen
 
@@ -26,3 +25,5 @@ Currently I am looking for an oppertuntity as a front end web developer. Please 
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png">&nbsp;
 
 </div>
+<br></br>
+Currently I am looking for an oppertuntity as a front end web developer. Please email me at Owenbond23@gmail.com for any information or questions you might have for me.
