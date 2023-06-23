@@ -2,5 +2,4 @@
 
 ### Feel free to explore any of the public repositories that hold projects i have built!
 
-
-[![Top Langs](https://github-readme-stats-git-OwenB23.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+#### I have Recenlty been working with HTML, CSS, JavaScript, Bootstrap and Jquery. You can find my resume and more information about me on my portfolio website found below in the "OwenB23.github.io" repository. 
