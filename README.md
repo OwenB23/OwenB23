@@ -3,7 +3,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/Owen-Bond)](https://www.linkedin.com/Owen-Bond)
 
-:school: BS in communication from East Carolina University and recent graduate of the Tech Academy's Front end Web Dev Bootcamp</br>
+:school: BS in communication from East Carolina University and recent graduate of the Tech Academy's Front End Web Development Bootcamp</br>
 :fountain_pen: I have a passion for creative writing</br>
 :video_game: I'm an avid gamer</br>
 🏀: Fun fact: I love to play basketball</br>
