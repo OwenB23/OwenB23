@@ -10,12 +10,11 @@ Currently I am looking for an oppertuntity as a front end web developer. Please 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/Owen-Bond)](https://www.linkedin.com/Owen-Bond)
 
-:school: Currently studying Computer Science at Rutgers University, NJ</br>
+:school: Currently studying react</br>
 :fountain_pen: I have a passion for creative writing</br>
-:computer: I love PC building and computer hardware</br>
 :video_game: I'm an avid gamer</br>
-:shower: Fun fact: I take cold showers</br>
-:mailbox: How to reach me: <a href="mailto:kevinfeng.cs88@gmail.com">kevinfeng.cs88@gmail.com</a>
+🏀: Fun fact: I love to play basketball</br>
+:mailbox: How to reach me: <a href="mailto:owenbond23@gmail.com">Owenbond23@gmail.com</a>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinfengcs88&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kevin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinfengcs88&theme=github_dark&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Owenb23&theme=github_dark&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
