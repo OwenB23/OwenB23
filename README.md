@@ -17,10 +17,10 @@
 #### I have Recenlty been working with HTML, CSS, JavaScript, Bootstrap, Node.JS, Expres.JS, React, MySQL, and more. You can find my resume and more information about me on my portfolio website found below in the "OwenB23.github.io" repository. ✅
 
 ## Languages and Tools:
-<div>
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
-</div>
+
 
 </div>
 <br></br>
