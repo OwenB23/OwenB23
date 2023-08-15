@@ -14,7 +14,7 @@
 
 ### Feel free to explore any of the public repositories that hold projects I have built! 📈
 
-#### I have Recenlty been working with HTML, CSS, JavaScript, Bootstrap and Jquery and I'm currently studying React. You can find my resume and more information about me on my portfolio website found below in the "OwenB23.github.io" repository. ✅
+#### I have Recenlty been working with HTML, CSS, JavaScript, Bootstrap, Node.JS, Expres.JS, React, MySQL, and more. You can find my resume and more information about me on my portfolio website found below in the "OwenB23.github.io" repository. ✅
 
 ## Languages and Tools:
 <div>
@@ -24,8 +24,9 @@
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png">&nbsp;
+ <img width=50 src="icons/React-Light.svg"
 </div>
 
 </div>
 <br></br>
-I am currently looking for an oppertuntity as a front end web developer! Please email me at Owenbond23@gmail.com for any information or questions you might have for me.
+I am currently looking for an oppertuntity as a web developer! Please email me at Owenbond23@gmail.com for any information or questions you might have for me.
