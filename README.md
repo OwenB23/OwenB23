@@ -24,4 +24,4 @@
 
 </div>
 <br></br>
-I am currently looking for an oppertuntity as a web developer! Please email me at Owenbond23@gmail.com for any information or questions you might have for me.
+I am currently looking for an oppertuntity as a web developer! Please email me at Owenbond23@gmail.com for any information or questions you might have.
