@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/Owen-Bond)
 
 
-:school: BS in communication from East Carolina University and recent graduate of the Tech Academy's Web Development Bootcamp</br>
+:school: BS in communication from East Carolina University and graduate of the Tech Academy's Web Development Bootcamp</br>
 :fountain_pen: I have a passion for designing and creating "all things" that live on the internet.</br>
 🏀 Fun fact: I love to play basketball</br>
 :mailbox: How to reach me: <a href="mailto:owenbond23@gmail.com">Owenbond23@gmail.com</a>
