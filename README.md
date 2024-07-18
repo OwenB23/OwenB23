@@ -6,7 +6,6 @@
 
 :school: BS in communication from East Carolina University and recent graduate of the Tech Academy's Web Development Bootcamp</br>
 :fountain_pen: I have a passion for designing and creating "all things" that live on the internet.</br>
-:video_game: I'm an avid gamer, facinated with the incredibly complex code necessary for all the polygons, shadows, and textures the user sees on the screen.</br>
 🏀 Fun fact: I love to play basketball</br>
 :mailbox: How to reach me: <a href="mailto:owenbond23@gmail.com">Owenbond23@gmail.com</a>
 
